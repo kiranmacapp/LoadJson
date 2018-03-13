@@ -1,0 +1,29 @@
+[
+{
+"id":1,
+"description" : "Practice 1",
+"name" : "Practice 1",
+"test_chapter_file_name" : "practice1.json",
+"total_questions" : "200",
+"free_questions" : "0",
+"total_time" : "150"
+},
+{
+"id":2,
+"description" : "Practice 2",
+"name" : "Practice 2",
+"test_chapter_file_name" : "practice2.json",
+"total_questions" : "200",
+"free_questions" : "0",
+"total_time" : "150"
+},
+{
+"id":3,
+"description" : "Practice 3",
+"name" : "Practice 3",
+"test_chapter_file_name" : "practice3.json",
+"total_questions" : "200",
+"free_questions" : "0",
+"total_time" : "150"
+}
+]
